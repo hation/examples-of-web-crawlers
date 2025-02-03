@@ -17,23 +17,10 @@
 
 
 
-
-
 <br />
 <br />
 
-## 如何下载
-
-没有或不懂如何设置代理的![chinese_flag](./chinese_flag.png)**中国用户**, 可跳转至镜像仓库[码云Gitee](https://gitee.com/shengqiangzhang/examples-of-web-crawlers)进行下载, 以便获得较快的下载速度。
-
-
-
-
-
-<br />
-<br />
-
-## [12.一键导出微信读书的书架信息][weread]
+## [13.一键导出微信读书的书架信息][weread]
 
 > 本项目基于[@arry-lee](https://github.com/arry-lee)的项目[wereader](https://github.com/arry-lee/wereader/issues/20)修改而来，感谢原作者提供的源代码。
 
@@ -75,16 +62,6 @@ python pyqt_gui.py
 <br />
 <br />
 
-## 补充
-
-项目持续更新，欢迎您[star本项目][5]
-
-
-
-
-
-<br />
-<br />
 
 ## License
 [The MIT License (MIT)][6]
