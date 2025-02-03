@@ -5,9 +5,6 @@
     <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.7-FF1493.svg"></a>
     <a href="https://opensource.org/licenses/mit-license.php"><img src="https://badges.frapsoft.com/os/mit/mit.svg"></a>
-    <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers/graphs/contributors"><img src="https://img.shields.io/github/contributors/shengqiangzhang/examples-of-web-crawlers?color=blue"></a>
-    <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers/stargazers"><img src="https://img.shields.io/github/stars/shengqiangzhang/examples-of-web-crawlers.svg?logo=github"></a>
-    <a href="https://github.com/shengqiangzhang/examples-of-web-crawlers/network/members"><img src="https://img.shields.io/github/forks/shengqiangzhang/examples-of-web-crawlers.svg?color=blue&logo=github"></a>
     <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 </p>
 <br />
@@ -22,13 +19,9 @@
 
 ## [13.一键导出微信读书的书架信息-weread文件夹][weread]
 
-> 本项目基于[@arry-lee](https://github.com/arry-lee)的项目[wereader](https://github.com/arry-lee/wereader/issues/20)修改而来，感谢原作者提供的源代码。
+> 本项目基于[@shengqiangzhang](https://github.com/shengqiangzhang)项目[examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers)以及[@arry-lee](https://github.com/arry-lee)项目[wereader](https://github.com/arry-lee/wereader/issues/20)修改而来，感谢原作者提供的源代码。
 
 <br />
-
-### 简介
-
-全民阅读的时代已经来临，目前使用读书软件的用户数2.1亿，日活跃用户超过500万，其中19-35岁年轻用户占比超过60%，本科及以上学历用户占比高达80%，北上广深及其他省会城市/直辖市用户占比超过80%。**本人习惯使用微信读书，为了方便整理书籍和导出笔记，便开发了这个小工具。**
 
 
 ### 功能截图
