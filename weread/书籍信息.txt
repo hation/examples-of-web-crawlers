@@ -1,0 +1,53 @@
+{
+	'bookId': '216211',
+	'title': '了不起的盖茨比',
+	'author': '弗朗西斯·司各特·菲茨杰拉德',
+	'translator': '李继宏',
+	'cover': 'https://wfqqreader-1252317822.image.myqcloud.com/cover/211/216211/s_216211.jpg',
+	'version': 784292820,
+	'format': 'epub',
+	'type': 0,
+	'price': 36.0,
+	'originalPrice': 0,
+	'soldout': 0,
+	'bookStatus': 1,
+	'payType': 1048577,
+	'centPrice': 3600,
+	'finished': 1,
+	'free': 0,
+	'mcardDiscount': 0,
+	'ispub': 1,
+	'extra_type': 5,
+	'cpid': 1000000198,
+	'publishTime': '2013-01-01 00:00:00',
+	'categories': [{
+		'categoryId': 100000,
+		'subCategoryId': 100012,
+		'categoryType': 0,
+		'title': '精品小说-影视原著'
+	}, {
+		'categoryId': 300000,
+		'subCategoryId': 300004,
+		'categoryType': 0,
+		'title': '文学-经典作品'
+	}, {
+		'categoryId': 300000,
+		'subCategoryId': 300014,
+		'categoryType': 0,
+		'title': '文学-世界名著'
+	}],
+	'hasLecture': 1,
+	'lastChapterIdx': 28,
+	'paperBook': {
+		'skuId': ''
+	},
+	'copyrightChapterUids': [28],
+	'blockSaveImg': 0,
+	'language': 'zh',
+	'hideUpdateTime': False,
+	'isEPUBComics': 0,
+	'webBookControl': 0,
+	'selfProduceIncentive': False,
+	'readUpdateTime': 0,
+	'secret': 0
+}
