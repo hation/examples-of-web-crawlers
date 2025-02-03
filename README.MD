@@ -17,7 +17,7 @@
 <br />
 <br />
 
-## [13.一键导出微信读书的书架信息-weread文件夹][weread]
+## [一键导出微信读书的书籍信息 - weread文件夹][weread]
 
 > 本项目基于[@shengqiangzhang](https://github.com/shengqiangzhang)项目[examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers)以及[@arry-lee](https://github.com/arry-lee)项目[wereader](https://github.com/arry-lee/wereader/issues/20)修改而来，感谢原作者提供的源代码。
 
